@@ -1,0 +1,17 @@
+.cont {
+  width: 100vw;
+  height: 8vh;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(220, 214, 226);
+}
+.right ul {
+  display: flex;
+  flex-direction: row;
+}
+.right ul li {
+  margin: 10px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
